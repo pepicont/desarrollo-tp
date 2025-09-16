@@ -22,7 +22,7 @@ El negocio consiste de un portal de videojuegos donde un usuario luego de inicia
 
 ### Modelo
 
-![imagenDelModelo](assets/DER_portalvideojuegos.jpg)
+![imagenDelModelo](assets/DER_portalvideojuegos.png)
 
 Link: https://drive.google.com/file/d/1Yka-HRDaMmvCM-fxjBVcX36k_-_MT6ZQ/view?usp=sharing
 
