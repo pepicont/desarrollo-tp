@@ -37,14 +37,14 @@ Regularidad:
 |:-|:-|
 |CRUD simple|1. CRUD Usuario<br>2. CRUD Compañía<br>3. CRUD Categoría|
 |CRUD dependiente|1. CRUD Juego {depende de} CRUD Categoría y CRUD Compañía<br>2. CRUD Servicio {depende de} CRUD Categoría y CRUD Compañía <br>3. CRUD Complemento {depende de} CRUD Categoría y CRUD Compañía
-|Listado<br>+<br>detalle| 1. Listado de productos filtrado por categoría, compañía, tipo producto, nombre, edad mínima => detalle CRUD Producto <br> 2. Listado de ventas filtrado por rango de fecha, producto, compañía, juego (si es complemento), categoría => detalle crud venta|
+|Listado<br>+<br>detalle| 1. Listado de productos filtrado por nombre producto, rango de precios, compañia, tipo producto, edad permitida => detalle CRUD Producto <br> 2. Listado de ventas filtrado por nombre producto, rango de fecha, tipo producto, compañía => detalle crud venta|
 |CUU/Epic|1. Hacer una compra de un producto <br>2. Realizar una reseña sobre una venta|
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD Dependiente| - |
-|Listado<br>+<br>detalle| 1. Listado Reseña filtrado por rango de fechas|
+|Listado<br>+<br>detalle| 1. Listado Reseña filtrado nombre producto y por rango de fechas|
 |CUU/Epic|1. Moderar reseña (con API de IA o Librería)<br>2. Realizar compra de un producto (pago, con API (ej: MercadoPago))|
 
 ### Alcance Adicional Voluntario
