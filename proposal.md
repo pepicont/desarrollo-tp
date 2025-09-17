@@ -51,7 +51,6 @@ Adicionales para Aprobación
 
 _Nota_: El Alcance Adicional Voluntario es opcional, pero ayuda a que la funcionalidad del sistema esté completa y será considerado en la nota en función de su complejidad y esfuerzo.
 
-| Req              | Detalle                                                        |
-| :--------------- | :------------------------------------------------------------- |
-| CRUD Dependiente | 1. CRUD Servicio (de streaming)                                |
-| CUU/Epic         | 1. Subir desafío para desbloquear contenido exclusivo u oculto |
+| Req      | Detalle                                                        |
+| :------- | :------------------------------------------------------------- |
+| CUU/Epic | 1. Subir desafío para desbloquear contenido exclusivo u oculto |
