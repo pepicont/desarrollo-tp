@@ -18,7 +18,7 @@
 
 ### Descripción
 
-El negocio consiste de un portal de videojuegos donde un usuario luego de iniciar sesión con su cuenta en el sitio podrá acceder al catálogo de los mismos, ampliar sobre los detalles de estos pudiendo visualizar sus requisitos físicos, comentarios, reseñas diversas de otros usuarios, compañía desarrolladora entre otras cosas. A su vez, también podrá acceder a un catálogo de complementos sobre estos videojuegos o membresías mensuales de los canales de streaming del momento. Cualquiera sea el producto al que el usuario desee acceder, este seleccionará el mismo y se le mostrará un código de cupón junto a las instrucciones para poder canjearlo y hacer uso de su producto.
+El negocio consiste de un portal de videojuegos donde un usuario luego de iniciar sesión con su cuenta en el sitio podrá acceder al catálogo de los mismos, ampliar sobre los detalles de estos pudiendo visualizar sus detalles, reseñas diversas de otros usuarios, compañía desarrolladora entre otras cosas. A su vez, también podrá acceder a un catálogo de complementos sobre estos videojuegos o membresías mensuales de los canales de streaming y/o servicios del momento. Cualquiera sea el producto al que el usuario desee acceder, este seleccionará el mismo y se le mostrará un código de cupón para poder canjearlo y hacer uso de su producto.
 
 ### Modelo
 
@@ -51,6 +51,6 @@ Adicionales para Aprobación
 
 _Nota_: El Alcance Adicional Voluntario es opcional, pero ayuda a que la funcionalidad del sistema esté completa y será considerado en la nota en función de su complejidad y esfuerzo.
 
-| Req      | Detalle                                                        |
-| :------- | :------------------------------------------------------------- |
-| CUU/Epic | 1. Subir desafío para desbloquear contenido exclusivo u oculto |
+| Req      | Detalle                                                              |
+| :------- | :------------------------------------------------------------------- |
+| CUU/Epic | 1. Servicio de mailing para notificar al usuario de diversos eventos |
