@@ -14,6 +14,14 @@
 - [backend app](https://github.com/pepicont/desarrollo-BE-tp)
   _Nota_: si utiliza un monorepo indicar un solo link con fullstack app.
 
+## Link del deploy
+
+<a href="https://portaldevideojuegos-l8sue.ondigitalocean.app"><u>https://portaldevideojuegos-l8sue.ondigitalocean.app</u></a>
+
+## Link del video subido a YouTube
+
+<a href="link_video"><u>Pendiente de filmación...</u></a>
+
 ## Tema
 
 ### Descripción
