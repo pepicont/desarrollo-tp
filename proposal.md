@@ -12,7 +12,7 @@
 
 - [frontend app](https://github.com/pepicont/desarrollo-FE-tp)
 - [backend app](https://github.com/pepicont/desarrollo-BE-tp)
-  _Nota_: si utiliza un monorepo indicar un solo link con fullstack app.
+
 
 ## Link del deploy
 
