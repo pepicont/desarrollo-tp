@@ -18,6 +18,18 @@
 
 <a href="https://portaldevideojuegos-l8sue.ondigitalocean.app"><u>https://portaldevideojuegos-l8sue.ondigitalocean.app</u></a>
 
+## Credenciales para poder usar la API de MercadoPago:
+```
+Usuario = TESTUSER4570430619331798327
+Contraseña = v8VYs98gMs
+```
+
+## Credenciales para poder usar la App como Administrador:
+```
+Usuario = portalvideojuegos@yahoo.com
+Contraseña = 123456
+```
+
 ## Link del video subido a YouTube
 
 <a href="link_video"><u>Pendiente de filmación...</u></a>
