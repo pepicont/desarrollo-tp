@@ -22,6 +22,7 @@
 ```
 Usuario = TESTUSER4570430619331798327
 Contraseña = v8VYs98gMs
+Código de verificación = 011669
 ```
 
 ## Credenciales para poder usar la App como Administrador:
