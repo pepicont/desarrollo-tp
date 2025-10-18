@@ -10,7 +10,7 @@
 
 ### Contacto para la defensa:
 -mail: stefano.conti2004@gmail.com
--telegram: 3412929001
+-telegram: 3412629001
 
 ### Repositorios
 
