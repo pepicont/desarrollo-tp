@@ -5,8 +5,12 @@
 ### Integrantes
 
 - 52479 - Brizio, Augusto
-- 52850 - Conti, Stefano
+- 52850 - Conti, Stefano 
 - 53137 - Vitali, Bruno
+
+### Contacto para la defensa:
+-mail: stefano.conti2004@gmail.com
+-telegram: 3412929001
 
 ### Repositorios
 
