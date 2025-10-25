@@ -37,7 +37,7 @@ Contraseña = 123456
 
 ## Link del video subido a YouTube
 
-<a href="link_video"><u>Pendiente de filmación...</u></a>
+<a href="https://youtu.be/9JQkHxJVGyA"><u>Link al video</u></a>
 
 ## Tema
 
